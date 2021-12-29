@@ -30,7 +30,7 @@ In this project, we are going to use **calendar.csv** and **listings.csv** to an
 6. Deployment
 
 # Result
-The key conclusions of the code can be found in this blog post.
+The key conclusions of the code can be found in [this blog](https://medium.com/@yennhi95zz/udacity-seattle-airbnb-analysis-1e8f7349f2b1) post.
 
 # Licensing, Authors, Acknowledgements
 Thanks to UDACITY, I have an approach at the dataset and find interesting information for analysis purpose. Seatlle Airbnb Open Dataset is public for everyone. You may find the source and further information [here](https://www.kaggle.com/airbnb/seattle).
